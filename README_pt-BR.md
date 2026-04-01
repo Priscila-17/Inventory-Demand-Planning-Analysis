@@ -27,8 +27,8 @@ A análise foi estruturada para responder às seguintes perguntas:
 * Notebook Completo ipynb: A análise detalhada, incluindo tratamento dos dados, gráficos e construção dos insights.
 * Dashboard pbix: Desenvolvido para visualização dos principais indicadores e padrões identificados.
 
-![Dashboard Preview](Inventory Demand Planning Analysis Dashboard.png)
-![Dashboard Preview](Inventory Demand Planning Analysis Graph.png)
+![Dashboard Preview](inventory_analysis_dashboard.png)  
+![Dashboard Preview](inventory_analysis_graph.png)
 
 ----------------------
 
